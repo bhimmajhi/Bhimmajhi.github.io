@@ -1,24 +1,5 @@
 # Bhim Majhi — Portfolio + Firebase Live Gallery
 
-## Folder structure
-```
-├── index.html            # public site
-├── admin.html            # upload / login page
-├── css/                  # style.css, admin.css
-├── js/
-│   ├── app.js            # public real-time gallery
-│   ├── admin.js          # login + upload logic
-│   ├── particles.js
-│   └── config/           # firebase-config.js, cloudinary-config.js
-├── assets/
-│   ├── fonts/            # Destoria-Free.*
-│   └── images/           # logo.png, photo1.jpg, photo2.jpg
-├── firebase/             # firestore.rules, storage.rules
-├── robots.txt, sitemap.xml
-├── googleee67e686a31af878.html, pinterest-a95a6.html   # site verification (keep in root)
-└── LICENSE
-```
-
 ## One-line commands
 Run locally:
 ```
